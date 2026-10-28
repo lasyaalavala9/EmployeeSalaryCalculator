@@ -81,3 +81,8 @@ EmployeeSalaryCalculator/
 - Implemented salary calculations using separate methods.
 - Used file handling to save and load employee information.
 - Used Git and GitHub for version control.
+## Application Screenshot
+
+### Main Menu
+
+![Employee Salary Calculator Main Menu](screenshots/employee-menu.png)
