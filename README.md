@@ -86,3 +86,6 @@ EmployeeSalaryCalculator/
 ### Main Menu
 
 ![Employee Salary Calculator Main Menu](screenshots/employee-menu.png)
+### Salary Slip
+
+![Employee Salary Slip](screenshots/salary-slip.png)
